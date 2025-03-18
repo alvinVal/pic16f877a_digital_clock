@@ -1,0 +1,8 @@
+[PROJECTS]
+Count=4
+Project0=..\EXP4\LBYCPA3_EQ1_GR3_EXP4_EX2.mcppi
+Project1=..\demo_5\demo_5.mcppi
+Project2=..\demo_5\demo_5_2.mcppi
+Project3=project_1.mcppi
+[ActiveProject]
+Index=3
